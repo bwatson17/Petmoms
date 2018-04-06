@@ -10,4 +10,6 @@ My partner, Shakira Perry, and I, Bailey Watson have created a website for the l
 Our Website was created to allow people to keep up with the store, read what Tail Wagger'z is all about and keep up with current events. Our website contains the information that would typically be searched for by a potential customer. 
 
 Website Features:
-     Our website 
+     Our website allows the potential customers to be able to see the upcomming events that will be happening at Tail Wagger'z. 
+     Tail Wagger'z is very active on Facebook but to make the website morte interactive Shakira and I decided that it woud make sense to have a "Leave a Message" section where you can leave them a message and they will be able to respond the the inquiring customer. 
+     In our "Contact Us" section wee have inserted their phone number, email, adress, and work hours.
